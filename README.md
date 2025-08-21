@@ -1,9 +1,7 @@
 # CO2003_DSA__HK242_Assignment1-2
 Implement data structures header files and application/Construct Huffman Tree to compress data by using C++
 
-You've got it. Separating the provided interfaces from your own implementations is a great way to clarify the project's structure. Here is the updated README with that change.
-
-DSA Inventory Management System
+## DSA Inventory Management System
 This repository contains the source code for an assignment for the Data Structures and Algorithms (DSA) course. The core of this project is the from-scratch implementation of several fundamental data structures based on PROVIDED abstract interfaces. These structures are then used to build a comprehensive inventory management application, complete with data compression capabilities using an N-ary Huffman tree.
 
 🚀 Features
