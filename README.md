@@ -41,7 +41,7 @@ Application Logic
 - inventory.h: This file leverages the data structures you implemented to build the inventory application.
     + List1D<T> & List2D<T>: These are wrapper classes that use your list implementations (XArrayList or DLinkedList) to create one-dimensional and two-dimensional data containers. 
     + InventoryManager: This is the primary application class. It uses List1D and List2D objects to store and manage all inventory data, including product names, quantities, and attributes.
-    + 
+      
 - inventory_compressor.h: This file contains the logic for compressing and decompressing inventory data using Huffman coding.
     + HuffmanTree<treeOrder>: A template class that constructs an N-ary Huffman tree from character frequencies. It handles the creation of dummy nodes to ensure the tree is built correctly and provides methods to build the tree, generate encoding tables, and decode compressed strings.
     
